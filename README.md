@@ -3,7 +3,8 @@ Messing around with an Arduino Uno clone. Small projects made at home. Since the
 
 https://www.youtube.com/watch?v=6CSMxv1Jfg0
 
-An ultrasonic sensor(HC-SR04) hooked to an UNO clone, fitted to a toy car. I have used the HC-SR04 library to simplify things. 
+
+An ultrasonic sensor(HC-SR04) hooked to an UNO clone, fitted to a toy car. I have used the HC-SR04 library to simplify things. Used a simple buzzer for beeping. The device is rigged to make different beeping patters at roughly 20, 10 cm, respectively continuous beep at 5 cm or less away from the obstacle. 
 
 The code is:
 
